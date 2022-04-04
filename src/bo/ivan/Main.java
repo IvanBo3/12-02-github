@@ -8,5 +8,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello, QA GURU!");
         System.out.println("Hello, new branch");
+        System.out.println("New commit in to new_branch");
     }
 }
